@@ -19,7 +19,7 @@ Website được chia thành các phần sau để các bạn dễ theo dõi:
 - **Worklog**: Nhật ký công việc hàng tuần của mình (từ tuần 1 đến tuần 8)
 - **Proposal**: Ý tưởng và đề xuất dự án
 - **Event Participated**: Các sự kiện và hoạt động mình đã tham gia
-- **Workshop**:
+- **Workshop**: Hệ thống ClouMenu
 - **Self-evaluation**: Tự đánh giá bản thân
 - **Feedback**: Góp ý và phản hồi
 
