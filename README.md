@@ -1,4 +1,4 @@
-# AWS FCJ Internship Report 🌟
+# AWS FCAJ Internship Report 🌟
 
 Chào mừng bạn đến với báo cáo thực tập của mình tại Amazon Web Services Vietnam!
 
