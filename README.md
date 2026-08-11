@@ -4,13 +4,13 @@ Chào mừng bạn đến với báo cáo thực tập của mình tại Amazon 
 
 ## Giới thiệu
 
-Xin chào! Mình là **Nguyễn Tuyết Nhi**, hiện đang là sinh viên ngành Công nghệ Thông tin tại Đại học Sài Gòn. Website này là nơi mình ghi lại hành trình thực tập 2 tháng đầy thú vị tại AWS Vietnam với vai trò FCJ Cloud Intern.
+Xin chào! Mình là **Nguyễn Tuyết Nhi**, hiện đang là sinh viên ngành Công nghệ Thông tin tại Đại học Sài Gòn. Website này là nơi mình ghi lại hành trình thực tập 2 tháng đầy thú vị tại AWS Vietnam với vai trò FCAJ Cloud Intern.
 
 **Thời gian thực tập:** Từ 22/06/2026 đến 15/08/2026
 
 ## Xem trực tiếp
 
-Ghé thăm website của mình tại đây nhé: **[https://github.com/ntnhi2004/AWS_FCJ_Cloud-_Intern](https://github.com/ntnhi2004/AWS_FCJ_Cloud-_Intern)** 🎉
+Ghé thăm website của mình tại đây nhé: **[https://github.com/ntnhi2004/AWS_FCAJ_Cloud-_Intern](https://github.com/ntnhi2004/AWS_FCAJ_Cloud-_Intern)** 🎉
 
 ## Có gì trong đây?
 
